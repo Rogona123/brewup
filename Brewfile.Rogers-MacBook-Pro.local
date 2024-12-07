@@ -1,0 +1,32 @@
+tap "homebrew/bundle"
+brew "htop"
+brew "iperf3"
+brew "mas"
+brew "speedtest-cli"
+brew "trash"
+brew "tree"
+cask "adobe-creative-cloud"
+cask "alfred"
+cask "alt-tab"
+cask "appcleaner"
+cask "cheatsheet"
+cask "dockey"
+cask "epic-games"
+cask "iina"
+cask "iterm2"
+cask "loopback"
+cask "malwarebytes"
+cask "mathpix-snipping-tool"
+cask "minecraft"
+cask "onyx"
+cask "rectangle"
+cask "soundsource"
+cask "steam"
+cask "visual-studio-code"
+cask "vivaldi"
+mas "Amphetamine", id: 937984704
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
